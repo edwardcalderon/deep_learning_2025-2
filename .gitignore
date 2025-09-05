@@ -203,3 +203,4 @@ mlruns/
 ehthumbs.db
 Thumbs.db
 anaconda_projects
+.virtual_documents/*
