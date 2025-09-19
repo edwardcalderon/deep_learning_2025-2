@@ -1,0 +1,7 @@
+torch>=1.9.0
+torchvision>=0.10.0
+detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.9/index.html
+opencv-python>=4.5.0
+matplotlib>=3.4.0
+pycocotools>=2.0.2
+numpy>=1.20.0
